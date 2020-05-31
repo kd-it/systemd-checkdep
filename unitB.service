@@ -1,0 +1,7 @@
+[Unit]
+Description = Unit B
+
+[Service]
+Type = simple
+ExecStart = /usr/local/sbin/unitB
+

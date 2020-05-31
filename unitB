@@ -1,0 +1,6 @@
+#!/bin/bash
+# 注意: このスクリプトはひたすらにCPUを無駄遣いします
+
+while true; do
+    echo "" > /dev/null
+done
